@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/xmujacky/testapp/main/AIChatApp.ipa</string>
+                    <string>https://raw.githubusercontent.com/xmujacky/testapp/main/AIChat.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,7 +29,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>AIChatApp</string>
+                <string>AIChat</string>
             </dict>
         </dict>
     </array>
