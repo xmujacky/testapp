@@ -1,0 +1,140 @@
+2025-04-25 02:51:57 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x111f90f70; archive(resolved)="<IDEArchive: 0x600020641500>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x111f90f70; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x324f53020; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x361a139e0; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x32ed04910; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34fa1e910; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x343626a70; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3527b68f0; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x34fa216d0; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3357ccbc0; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003eb9a00; teamID='A4J67L83R5', teamName='Fujian Xingwang Zhihui Technology Co., Ltd.', teamType='Company', username='hy452348@163.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x35264e280; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="(null)">
+	<IDEDistributionContext: 0x335474620; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="(null)">
+	<IDEDistributionContext: 0x335567370; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="(null)">
+	<IDEDistributionContext: 0x3525eb510; archive = "<IDEArchive: 0x600020641500>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x60001206b490>", team="(null)">
+	<IDEDistributionContext: 0x352785490; archive = "<IDEArchive: 0x600020641500>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x3528f9290; archive = "<IDEArchive: 0x600020641500>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x34ee774b0; archive = "<IDEArchive: 0x600020641500>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x111f90f70>
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionCreateDestRootStep
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionCopyItemStep
+2025-04-25 02:51:57 +0000  Running /usr/bin/ditto '-V' '/Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app' '/var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Root/Payload/AIChatApp_iOS.app'
+2025-04-25 02:51:57 +0000  >>> Copying /Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app 
+2025-04-25 02:51:57 +0000  copying file ./_CodeSignature/CodeResources ... 
+2025-04-25 02:51:57 +0000  3625 bytes for ./_CodeSignature/CodeResources
+2025-04-25 02:51:57 +0000  copying file ./AIChatApp_iOS ... 
+2025-04-25 02:51:57 +0000  6573664 bytes for ./AIChatApp_iOS
+2025-04-25 02:51:57 +0000  copying file ./AppIcon60x60@2x.png ... 
+5301 bytes for ./AppIcon60x60@2x.png
+copying file ./Assets.car ... 
+2025-04-25 02:51:57 +0000  183295 bytes for ./Assets.car
+2025-04-25 02:51:57 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2025-04-25 02:51:57 +0000  6666 bytes for ./AppIcon76x76@2x~ipad.png
+2025-04-25 02:51:57 +0000  copying file ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2025-04-25 02:51:57 +0000  3419 bytes for ./LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2025-04-25 02:51:57 +0000  copying file ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2025-04-25 02:51:57 +0000  924 bytes for ./LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2025-04-25 02:51:57 +0000  copying file ./LaunchScreen.storyboardc/Info.plist ... 
+2025-04-25 02:51:57 +0000  258 bytes for ./LaunchScreen.storyboardc/Info.plist
+2025-04-25 02:51:57 +0000  copying file ./embedded.mobileprovision ... 
+2025-04-25 02:51:57 +0000  59296 bytes for ./embedded.mobileprovision
+2025-04-25 02:51:57 +0000  copying file ./Info.plist ... 
+2025-04-25 02:51:57 +0000  1593 bytes for ./Info.plist
+2025-04-25 02:51:57 +0000  copying file ./PkgInfo ... 
+2025-04-25 02:51:57 +0000  8 bytes for ./PkgInfo
+2025-04-25 02:51:57 +0000  /usr/bin/ditto exited with 0
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionEmbedProfileStep
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionInfoPlistStep
+2025-04-25 02:51:57 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2025-04-25 02:51:57 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2025-04-25 02:51:57 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2025-04-25 02:51:57 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionSymbolsStep
+2025-04-25 02:51:57 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionAppThinningStep
+2025-04-25 02:51:57 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionArchThinningStep
+2025-04-25 02:51:57 +0000  Item /Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2025-04-25 02:51:57 +0000  Archs to thin for item /Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app are ["arm64e"]
+2025-04-25 02:51:57 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Root/Payload/AIChatApp_iOS.app/AIChatApp_iOS' '-verify_arch' 'arm64e'
+2025-04-25 02:51:57 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2025-04-25 02:51:57 +0000  Skipping architecture thinning for item "AIChatApp_iOS" because arch "arm64e" wasn't found
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionODRStep
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionStripXattrsStep
+2025-04-25 02:51:57 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionCodesignStep
+2025-04-25 02:51:57 +0000  Entitlements for <IDEDistributionItem: 0x600020604f60; bundleID='com.haooqi.aichat.app', path='<DVTFilePath:0x600008ea1180:'/Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000383f0140; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000057c2e80; name='Apple Development: Yong Huang (6SLY84LG7D)', hash='C3805B7515F2B5E29D6E7949ED3A59365E1AA44F', serialNumber='40B540312083FE9168990EA664AE4E1C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-04-23 08:54:58 +0000''>', entitlements='{
+    "application-identifier" = "A4J67L83R5.com.haooqi.aichat.app";
+    "com.apple.developer.team-identifier" = A4J67L83R5;
+    "get-task-allow" = 1;
+}', teamID='A4J67L83R5', identifier='com.haooqi.aichat.app', executablePath='<DVTFilePath:0x600008ea3400:'/Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app/AIChatApp_iOS'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "A4J67L83R5.com.haooqi.aichat.app";
+    "com.apple.developer.team-identifier" = A4J67L83R5;
+    "get-task-allow" = 0;
+}
+2025-04-25 02:51:57 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-04-25 02:51:57 +0000  Entitlements for <IDEDistributionItem: 0x600020604f60; bundleID='com.haooqi.aichat.app', path='<DVTFilePath:0x600008ea1180:'/Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000383f0140; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000018b0300; name='Apple Development: Yong Huang (6SLY84LG7D)', hash='C3805B7515F2B5E29D6E7949ED3A59365E1AA44F', serialNumber='40B540312083FE9168990EA664AE4E1C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-04-23 08:54:58 +0000''>', entitlements='{
+    "application-identifier" = "A4J67L83R5.com.haooqi.aichat.app";
+    "com.apple.developer.team-identifier" = A4J67L83R5;
+    "get-task-allow" = 1;
+}', teamID='A4J67L83R5', identifier='com.haooqi.aichat.app', executablePath='<DVTFilePath:0x600008ea3400:'/Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app/AIChatApp_iOS'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "A4J67L83R5.com.haooqi.aichat.app";
+    "com.apple.developer.team-identifier" = A4J67L83R5;
+    "get-task-allow" = 0;
+}
+2025-04-25 02:51:57 +0000  Writing entitlements for <IDEDistributionItem: 0x600020604f60; bundleID='com.haooqi.aichat.app', path='<DVTFilePath:0x600008ea1180:'/Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000383f0140; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000018b0b40; name='Apple Development: Yong Huang (6SLY84LG7D)', hash='C3805B7515F2B5E29D6E7949ED3A59365E1AA44F', serialNumber='40B540312083FE9168990EA664AE4E1C', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2025-04-23 08:54:58 +0000''>', entitlements='{
+    "application-identifier" = "A4J67L83R5.com.haooqi.aichat.app";
+    "com.apple.developer.team-identifier" = A4J67L83R5;
+    "get-task-allow" = 1;
+}', teamID='A4J67L83R5', identifier='com.haooqi.aichat.app', executablePath='<DVTFilePath:0x600008ea3400:'/Users/Jacky/Library/Developer/Xcode/Archives/2025-04-25/AIChatApp_iOS 2025-4-25, 10.51.xcarchive/Products/Applications/AIChatApp_iOS.app/AIChatApp_iOS'>', hardenedRuntime='0'>'> to: /var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/entitlements~~~jYIMMC
+2025-04-25 02:51:57 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '2AF1C70F291D670EF13F8E30444326051F25F9E2' '--entitlements' '/var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/entitlements~~~jYIMMC' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Root/Payload/AIChatApp_iOS.app'
+2025-04-25 02:51:57 +0000  /var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Root/Payload/AIChatApp_iOS.app: replacing existing signature
+2025-04-25 02:51:57 +0000  /var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Root/Payload/AIChatApp_iOS.app: signed app bundle with Mach-O thin (arm64) [com.haooqi.aichat.app]
+2025-04-25 02:51:57 +0000  /usr/bin/codesign exited with 0
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionZipODRItemStep
+2025-04-25 02:51:57 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionCreateIPAStep
+2025-04-25 02:51:57 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Root' '/var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Packages/AIChat.ipa'
+2025-04-25 02:51:57 +0000  >>> Copying /var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Root 
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/_CodeSignature/CodeResources ... 
+2025-04-25 02:51:57 +0000  3625 bytes for ./Payload/AIChatApp_iOS.app/_CodeSignature/CodeResources
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/AIChatApp_iOS ... 
+2025-04-25 02:51:57 +0000  6573712 bytes for ./Payload/AIChatApp_iOS.app/AIChatApp_iOS
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/AppIcon60x60@2x.png ... 
+5301 bytes for ./Payload/AIChatApp_iOS.app/AppIcon60x60@2x.png
+copying file ./Payload/AIChatApp_iOS.app/Assets.car ... 
+2025-04-25 02:51:57 +0000  183295 bytes for ./Payload/AIChatApp_iOS.app/Assets.car
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/AppIcon76x76@2x~ipad.png ... 
+2025-04-25 02:51:57 +0000  6666 bytes for ./Payload/AIChatApp_iOS.app/AppIcon76x76@2x~ipad.png
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2025-04-25 02:51:57 +0000  3419 bytes for ./Payload/AIChatApp_iOS.app/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2025-04-25 02:51:57 +0000  924 bytes for ./Payload/AIChatApp_iOS.app/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/LaunchScreen.storyboardc/Info.plist ... 
+2025-04-25 02:51:57 +0000  258 bytes for ./Payload/AIChatApp_iOS.app/LaunchScreen.storyboardc/Info.plist
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/embedded.mobileprovision ... 
+2025-04-25 02:51:57 +0000  22201 bytes for ./Payload/AIChatApp_iOS.app/embedded.mobileprovision
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/Info.plist ... 
+2025-04-25 02:51:57 +0000  1593 bytes for ./Payload/AIChatApp_iOS.app/Info.plist
+2025-04-25 02:51:57 +0000  copying file ./Payload/AIChatApp_iOS.app/PkgInfo ... 
+2025-04-25 02:51:57 +0000  8 bytes for ./Payload/AIChatApp_iOS.app/PkgInfo
+2025-04-25 02:51:57 +0000  /usr/bin/ditto exited with 0
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2025-04-25 02:51:57 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2025-04-25 02:51:57 +0000  IDEDistributionItem init <DVTFilePath:0x600008fd5080:'/var/folders/28/qnn141jd2zs40q4jml16jpqr0000gn/T/XcodeDistPipeline.~~~JH5eLr/Root/Payload/AIChatApp_iOS.app'>
+2025-04-25 02:51:57 +0000  Processing step: IDEDistributionCreateManifestStep
